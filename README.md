@@ -1,2 +1,4 @@
-# wp-database-migrator
+WP Database Migrator
+====================
+
 A handy WordPress database migration tool.
